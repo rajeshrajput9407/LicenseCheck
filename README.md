@@ -2,6 +2,8 @@
 you can use LicenseCheck code 
 ////////////////////////////////////****************************************************/////////////////////////////////////////////
 
+Dll Is Required.
+
 static void Main()
         {
             Application.EnableVisualStyles();
